@@ -256,6 +256,9 @@
     <ClCompile Include="events\TaskCompletedEvent.cpp">
       <Filter>events</Filter>
     </ClCompile>
+	  <ClCompile Include="events\TeleportEvent.cpp">
+      <Filter>events</Filter>
+    </ClCompile>
     <ClCompile Include="events\VentEvent.cpp">
       <Filter>events</Filter>
     </ClCompile>
