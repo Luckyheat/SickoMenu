@@ -28,6 +28,7 @@
     <ClCompile Include="events\ReportDeadBodyEvent.cpp" />
     <ClCompile Include="events\ShapeShiftEvent.cpp" />
     <ClCompile Include="events\TaskCompletedEvent.cpp" />
+    <ClCompile Include="events\ShapeShiftEvent.cpp" />
     <ClCompile Include="events\VentEvent.cpp" />
     <ClCompile Include="events\WalkEvent.cpp" />
     <ClCompile Include="gui\console.cpp" />
